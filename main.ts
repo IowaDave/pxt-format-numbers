@@ -1,7 +1,7 @@
 /**
  * Custom blocks
  */
-//% weight=100 color=#ba0057 icon="\uf044"
+//% weight=49 color=#ba0057 icon="\uf044"
 namespace format {
     /**
      * Return a formatted string containing
